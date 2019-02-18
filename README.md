@@ -1,1 +1,1 @@
-Simple iOS trivia App about video games
+Simple iOS trivia app about video games
